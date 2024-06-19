@@ -21,7 +21,7 @@ What is GitHub, and what are its primary functions and features? Explain how it 
  GitHub Actions: Automation of workflows, including continuous integration/continuous deployment (CI/CD).
  Collaboration: Supports collaborative development through code reviews, discussions, and integrations with various tools.
 
-   *Supporting Collaborative Software Development:
+   <b>*Supporting Collaborative Software Development:</b>
  *GitHub supports collaborative development by providing tools for version control, code reviews, project management, and workflow automation, allowing teams to work together efficiently and effectively.
 
 Repositories on GitHub:
@@ -138,6 +138,7 @@ jobs:
 
 What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 Integrating GitHub with Visual Studio:
+
   *Visual Studio is an integrated development environment (IDE) developed by Microsoft. It supports various programming languages and offers tools for debugging, testing, and deploying applications.
 
   Key Features:
